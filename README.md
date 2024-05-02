@@ -5,6 +5,7 @@
 ## 🚀 About Me
 I am Full Stack Developer with a broad and versatile coding skill set. I quickly helps startups and enterprises with prototypes and ideas by efficiently building those things into reality.
 
+<a href="https://app.daily.dev/praveenrambaludev"><img src="https://api.daily.dev/devcards/v2/PJ266YbKlntCuTvufcZsq.png?type=default&r=2mu" width="356" alt="Praveenram Balachandran's Dev Card"/></a>
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://praveenrambalu.github.io/)
