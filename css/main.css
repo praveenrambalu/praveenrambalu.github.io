@@ -4931,3 +4931,26 @@
  	border-top-color: #4ECE99;
  	border-left-color: #4ECE99;
  }
+/* new site notice */
+.site-notice {
+	position: relative;
+	z-index: 10000;
+	padding: 10px 16px;
+	background: #1755cf;
+	color: #fff;
+	text-align: center;
+	font-size: 14px;
+	line-height: 1.5;
+}
+.site-notice p {
+	margin: 0;
+}
+.site-notice a {
+	color: #fff;
+	font-weight: 600;
+	text-decoration: underline;
+}
+.site-notice a:hover {
+	color: #fff;
+	opacity: 0.85;
+}
